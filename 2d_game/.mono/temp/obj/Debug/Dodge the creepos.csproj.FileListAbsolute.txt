@@ -1,0 +1,9 @@
+E:\GitHub-Repos\Learning-GoDot\2d_game\.mono\temp\bin\Debug\Dodge the creepos.dll
+E:\GitHub-Repos\Learning-GoDot\2d_game\.mono\temp\bin\Debug\Dodge the creepos.pdb
+E:\GitHub-Repos\Learning-GoDot\2d_game\.mono\temp\obj\Debug\Dodge the creepos.csproj.AssemblyReference.cache
+E:\GitHub-Repos\Learning-GoDot\2d_game\.mono\temp\obj\Debug\Dodge the creepos.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub-Repos\Learning-GoDot\2d_game\.mono\temp\obj\Debug\Dodge the creepos.AssemblyInfoInputs.cache
+E:\GitHub-Repos\Learning-GoDot\2d_game\.mono\temp\obj\Debug\Dodge the creepos.AssemblyInfo.cs
+E:\GitHub-Repos\Learning-GoDot\2d_game\.mono\temp\obj\Debug\Dodge the creepos.csproj.CoreCompileInputs.cache
+E:\GitHub-Repos\Learning-GoDot\2d_game\.mono\temp\obj\Debug\Dodge the creepos.dll
+E:\GitHub-Repos\Learning-GoDot\2d_game\.mono\temp\obj\Debug\Dodge the creepos.pdb
